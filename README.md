@@ -761,12 +761,12 @@ Quanto mais detalhado o prompt melhor, e é preciso tomar muito cuidado com cois
 
 ### Revisão do PRD com o Copilot
 
-![Conversa com o Copilot revisando o PRD](screenshots/copilot-revisao-prd-1.png)
+![Conversa com o Copilot revisando o PRD](copilot-revisao-prd-1.png)
 
-![Continuação da conversa com o Copilot](screenshots/copilot-revisao-prd-2.png)
+![Continuação da conversa com o Copilot](copilot-revisao-prd-2.png)
 
 ### Protótipo gerado no Lovable
 
-![Tela do protótipo no Lovable](screenshots/lovable-app-1.png)
+![Tela do protótipo no Lovable](lovable-app-1.png)
 
-![Tela de categorias do Bolso em Dia](screenshots/lovable-app-categorias.png)
+![Tela de categorias do Bolso em Dia](lovable-app-categorias.png)
